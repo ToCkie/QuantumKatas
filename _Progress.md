@@ -37,7 +37,7 @@
 
 * **[Random number generation (tutorial)](./tutorials/RandomNumberGeneration/)**. *Can't find an elegant solution to the last random number generator*
   Learn to generate random numbers using the principles of quantum computing.
-* **[Teleportation](./Teleportation/)**.
+* **[Teleportation](./Teleportation/)**. *Almost... there... (going to bed for now..)*
   Implement standard teleportation protocol and its variations.
 * **[Superdense coding](./SuperdenseCoding/)**.
   Implement the superdense coding protocol.
