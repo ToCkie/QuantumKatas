@@ -44,14 +44,14 @@
 
 #### Quantum Oracles and Simple Oracle Algorithms
 
-* **[Quantum oracles (tutorial)](./tutorials/Oracles/)**.
+* **[Quantum oracles (tutorial)](./tutorials/Oracles/)**. *Don't know hot to implement the meeting*
   Learn to implement classical functions as equivalent quantum oracles. 
 * **[Exploring Deutsch–Jozsa algorithm (tutorial)](./tutorials/ExploringDeutschJozsaAlgorithm/)**.
   Learn to implement classical functions and equivalent quantum oracles, and compare the quantum
   solution to the Deutsch–Jozsa problem to a classical one.
 * **[Deutsch–Jozsa algorithm](./DeutschJozsaAlgorithm/)**.
   Learn about quantum oracles which implement classical functions, and implement Bernstein–Vazirani and Deutsch–Jozsa algorithms.
-* **[Simon's algorithm](./SimonsAlgorithm/)**.
+* **[Simon's algorithm](./SimonsAlgorithm/)**. *Done.*
   Learn about Simon's algorithm.
 
 #### Grover's search algorithm
