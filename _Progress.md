@@ -12,9 +12,9 @@
   Learn to apply the most common gates used in quantum computing.
 * **[Multi-qubit systems (tutorial)](./tutorials/MultiQubitSystems/)**. *DONE*
   Learn to represent multi-qubit systems.
-* **[Multi-qubit gates (tutorial)](./tutorials/MultiQubitGates/)**. *Almost, I don't understand the last bitstring part*
+* **[Multi-qubit gates (tutorial)](./tutorials/MultiQubitGates/)**. *DONE*
   Learn about the most common multi-qubit gates.
-* **[Superposition](./Superposition/)**. *Not sure about the bit-string thingy*
+* **[Superposition](./Superposition/)**. *Not sure about the W state thingy*
   Learn to prepare superposition states.
 
 #### Quantum Computing Concepts: Measurements
@@ -37,7 +37,7 @@
 
 * **[Random number generation (tutorial)](./tutorials/RandomNumberGeneration/)**. *Can't find an elegant solution to the last random number generator*
   Learn to generate random numbers using the principles of quantum computing.
-* **[Teleportation](./Teleportation/)**. *Almost... there... (going to bed for now..)*
+* **[Teleportation](./Teleportation/)**. *DONE*
   Implement standard teleportation protocol and its variations.
 * **[Superdense coding](./SuperdenseCoding/)**.
   Implement the superdense coding protocol.
