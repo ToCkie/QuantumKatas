@@ -69,7 +69,7 @@
 
 #### Tools and libraries/Building up to Shor's algorithm
 
-* **[Quantum Fourier transform](./QFT/)**.
+* **[Quantum Fourier transform](./QFT/)**. *Except Part III*
   Learn to implement quantum Fourier transform and to use it to perform simple state transformations.
 * **[Phase estimation](./PhaseEstimation/)**.
   Learn about phase estimation algorithms.
